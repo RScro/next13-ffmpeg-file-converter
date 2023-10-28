@@ -1,7 +1,7 @@
 ## Free Unlimited File Converter using Ffmpeg
 
 - ✅Next.js 13 app router
-- ✅TailwindCss
+- ✅TailwindCSS
 - ✅Shadcn/ui
 - ✅WebAssembly
 - ✅FFMPEG
